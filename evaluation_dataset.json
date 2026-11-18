@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Which product was launched by the company acquired by the organization that employed Employee X?",
+    "expected_answer": "product p",
+    "expected_passages": [
+      "sample_documents:0",
+      "sample_documents:1",
+      "sample_documents:2"
+    ]
+  },
+  {
+    "query": "Which organization developed the medical technology associated with the university that referenced Dr. Kumar's neural network research?",
+    "expected_answer": "xyz research institute",
+    "expected_passages": [
+      "sample_documents:3",
+      "sample_documents:4",
+      "sample_documents:5",
+      "sample_documents:6"
+    ]
+  }
+]

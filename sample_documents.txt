@@ -1,0 +1,2 @@
+Employee X joined Company Y in 2020. Company Y acquired Company Z in 2022. Company Z launched Product P in 2023.
+Dr. Kumar published a research paper on neural networks in 2021. The paper was cited by a research team at ABC University in 2022. ABC University collaborated with XYZ Research Institute on a medical imaging project in 2023. XYZ Research Institute developed an automated tumor detection system in 2024.

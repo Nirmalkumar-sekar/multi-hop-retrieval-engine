@@ -1,0 +1,6 @@
+spacy
+sentence-transformers
+networkx
+numpy
+faiss-cpu
+pytest
